@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-mlav
 # C extensions
 *.so
 
@@ -109,6 +108,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+mlav
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pics
+*.png
