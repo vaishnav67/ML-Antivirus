@@ -1,0 +1,7 @@
+Mal
+https://bazaar.abuse.ch/download/e5b723d9a13e6fec23839823866253128dbe758c31082616ca89cf55d35a3998/
+https://www.virustotal.com/gui/file/d557f059b0f4598b69b43c7e40aa1118f1ec865f5bce3c12621a4dd0a4c2c423
+
+Non-Mal
+https://getcomposer.org/Composer-Setup.exe
+https://www.virustotal.com/gui/file/10826b503ba6823f14893f0627823017ee1778881222ea9960a7e268739d6956
